@@ -1,7 +1,7 @@
 ## The sky is not the limit! 🚀
 - ❤️ In love with Open Source
 - 👯 I’m looking to collaborate with other coding enthusiasts
-- ⚡ Fun fact: I love to sing, play the piano 
+- ⚡ Fun facts: I am space enthusiast, love to sing, play the piano and create social networks in my freetime
 
 ### Connect with me:
 
