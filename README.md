@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img align="left" alt="Aichnerc GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Aichnerc&show_icons=true&hide_border=true&hide=stars&count_private=true&include_all_commits=true&show_owner=true" />
+<img align="left" alt="Aichnerc GitHub stats" src="https://engine.snek.at/media/original_images/Aichnerc.gif" />
 
 [website]: https://www.aichner-christian.com
 [youtube]: https://www.youtube.com/channel/UC_qzR13P65VaPQJQ0zKPN5Q
