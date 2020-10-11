@@ -31,8 +31,6 @@
 <br />
 <br />
 
-<img align="left" alt="Aichnerc GitHub stats" src="https://engine.snek.at/media/original_images/Aichnerc.gif" />
-
 [website]: https://www.aichner-christian.com
 [youtube]: https://www.youtube.com/channel/UC_qzR13P65VaPQJQ0zKPN5Q
 [instagram]: https://www.instagram.com/aichnerchristian
